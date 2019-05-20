@@ -19,12 +19,14 @@
 * Dynamics Routes & Advanced Models  
 * SQL Introduction  
 * Understanding Sequelize  
+* Assignment - Build a Node.js Web App  
 
 [Week Four](#)
 
 * Sessions & Cookies  
 * Adding Authentication  
 * Sending Emails  
+* Assignment - Push a Node.js Web App to Github  
 
 [Week Five](#)
 
