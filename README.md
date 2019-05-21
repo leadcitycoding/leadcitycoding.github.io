@@ -1,56 +1,17 @@
 ## 2019 Summer Bootcamp Curriculum
 
-[Week One](#)
+[Week One](#)  
 
-* Introduction  
-* JavaScript - A Quick Refresher  
-* Understanding the Basics  
-* Improved Development Workflow and Debugging  
+* Introduction to HTML & CSS  
+* Introduction to Git Version Control  
+* Deploying websites with Cloud Hosting  
+* Introduction to React.js Web Application Development  
+> * __Assignment__: Build a Website about yourself.  
 
-[Week Two](#)
+[Week Two](#)  
 
-* Working with Express.js  
-* Working with Dynamic Content & Adding Templating Engines  
-* The Mode View Controller (MVC)  
-* Enhancing the App  
-
-[Week Three](#)
-
-* Dynamics Routes & Advanced Models  
-* SQL Introduction  
-* Understanding Sequelize  
-* Assignment - Build a Node.js Web App  
-
-[Week Four](#)
-
-* Sessions & Cookies  
-* Adding Authentication  
-* Sending Emails  
-* Assignment - Push a Node.js Web App to Github  
-
-[Week Five](#)
-
-* Advanced Authentication  
-* Understanding Validation  
-* Error Handling  
-* File Upload & Download  
-
-[Week Six](#)
-
-* Adding Pagination  
-* Understanding Async Requests  
-* Adding Payments  
-* Working the REST APIs - The Basics  
-
-[Week Seven](#)
-
-* Working the REST APIs - The Practical Application  
-* Understanding Async Await in Node.js  
-* Understand Websockets & Socket.io  
-* Working with GraphQL  
-
-[Week Eight](#)
-
-* Deploying our App  
-* Testing Node.js Applications  
-* Node.js as a Build Tool & Using npm  
+* Styling React.js components with CSS-in-JS  
+* Deploying React.js Web Applications
+* Managing State in React.js Web Applications with Redux
+> * __Assignment__: Built a React.js Web Application about something you are passionate about.  
+* Round-Up & Student feedback
