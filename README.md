@@ -11,7 +11,7 @@
 [Week Two](#)  
 
 * Styling React.js components with CSS-in-JS  
-* Deploying React.js Web Applications
-* Managing State in React.js Web Applications with Redux
+* Deploying React.js Web Applications  
+* Managing State in React.js Web Applications with Redux  
+* Round-Up & Student feedback  
 > * __Assignment__: Built a React.js Web Application about something you are passionate about.  
-* Round-Up & Student feedback
